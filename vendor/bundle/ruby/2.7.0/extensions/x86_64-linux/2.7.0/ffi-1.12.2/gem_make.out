@@ -1,5 +1,5 @@
 current directory: /home/jcintasr/Documents/gits/asociacionsolamb.github.io/vendor/bundle/ruby/2.7.0/gems/ffi-1.12.2/ext/ffi_c
-/usr/bin/ruby -I /usr/lib/ruby/2.7.0 -r ./siteconf20200527-45206-37sctf.rb extconf.rb
+/usr/bin/ruby -I /usr/lib/ruby/2.7.0 -r ./siteconf20200527-59504-d5qin.rb extconf.rb
 checking for ffi_call() in -lffi... yes
 checking for ffi_closure_alloc()... yes
 checking for shlwapi.h... no
@@ -52,4 +52,4 @@ linking shared-object ffi_c.so
 
 current directory: /home/jcintasr/Documents/gits/asociacionsolamb.github.io/vendor/bundle/ruby/2.7.0/gems/ffi-1.12.2/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20200527-45206-1iz2hyy
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20200527-59504-1wli5j4
