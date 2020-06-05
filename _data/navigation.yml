@@ -1,7 +1,17 @@
 # main links
 main:
-  - title: "Quienes somos"
+  - title: "Blog"
+    url: /Blog/
+  - title: "Proyectos"
+    url: /Proyectos/
+  - title: "Acciones"
+    url: /Acciones/
+  - title: "Quiénes somos"
     url: /Quienes-somos/
+  - title: "Contacto"
+    url: /Contacto/
+  #- title: "Contacto"
+  #
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
