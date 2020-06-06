@@ -10,7 +10,7 @@ feature_row:
   - image_path: "/assets/images/headers/cabo_waters_200x.png"
     url: /Blog/
     title: "Blog"
-    excerpt: "Todo lo que queramos poner motherfuckers"
+    excerpt: "Cuaderno de bitácora"
     btn_class: "btn--primary"
     btn_label: "Ver"
   - image_path: "/assets/images/headers/valle_guadalentin.png"
@@ -22,7 +22,7 @@ feature_row:
   - image_path: "/assets/images/headers/laguna_veguilla.png"
     url: /Acciones/
     title: "Acciones"
-    excerpt: "Pa quemar contendores"
+    excerpt: "Probando las pruebas probadas"
     btn_class: "btn--primary"
     btn_label: "Ver"
 ---
